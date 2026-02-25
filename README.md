@@ -1,4 +1,4 @@
-# Personal Experience | Live Clock
+# DRL-0225 | Single-PagePersonal Website
 
 A premium, single-page personal dashboard featuring a real-time digital clock, full date display, and a modern aesthetic.
 
@@ -21,12 +21,6 @@ You can view the live site here: [https://iamtt111.github.io/DRL-0225/](https://
 - `index.html`: Structure of the personal workspace.
 - `index.css`: Custom animations and premium styling.
 - `script.js`: Real-time clock and date logic.
-
-## 📝 Customization
-To personalize the site, open `index.html` and update the `<h1>` tag with your name:
-```html
-<h1>YOUR NAME</h1>
-```
 
 ---
 *Designed with precision.*
